@@ -2,8 +2,8 @@
 
 ## Специалист по Data Science
 
-| Название проекта | Задачи проекта | Направление деятельности | Инструменты |
+| Название проекта | Направление деятельности | Задачи проекта | Инструменты |
 |------------------|----------------|--------------------------|-------------|
-|[Финальный проект. Промышленность](https://github.com/Azantii/Portfolio/blob/main/YandexPracticum-DataScience/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.%20%D0%9F%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%BE%D0%BA%D0%BE%D0%BD%D1%87%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9.ipynb) | Прогноз температуры стали во время плавки | Исследовательский анализ Машинное обучение | Python  Pandas Seaborn Matplotlib Scikit-learn Scipy CatBoost LightGBM |
+|[Финальный проект. Промышленность](https://github.com/Azantii/Portfolio/blob/main/YandexPracticum-DataScience/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.%20%D0%9F%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%BE%D0%BA%D0%BE%D0%BD%D1%87%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9.ipynb) | Исследовательский анализ Машинное обучение | Прогноз температуры стали во время плавки |  Python  Pandas Seaborn Matplotlib Scikit-learn CatBoost LightGBM |
 | 
 
